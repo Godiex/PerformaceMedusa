@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "jellyfish/1.0.0": {
+        "dependencies": {
+          "Bll": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "runtime": {
+          "jellyfish.dll": {}
+        }
+      },
+      "Bll/1.0.0": {
+        "dependencies": {
+          "Dal": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "runtime": {
+          "Bll.dll": {}
+        }
+      },
+      "Dal/1.0.0": {
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "runtime": {
+          "Dal.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "runtime": {
+          "Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jellyfish/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

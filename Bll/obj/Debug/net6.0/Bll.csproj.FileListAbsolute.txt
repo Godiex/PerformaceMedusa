@@ -1,0 +1,17 @@
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\bin\Debug\net6.0\Bll.deps.json
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\bin\Debug\net6.0\Bll.dll
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\bin\Debug\net6.0\ref\Bll.dll
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\bin\Debug\net6.0\Bll.pdb
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\bin\Debug\net6.0\Dal.dll
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\bin\Debug\net6.0\Entities.dll
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\bin\Debug\net6.0\Dal.pdb
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\bin\Debug\net6.0\Entities.pdb
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\obj\Debug\net6.0\Bll.csproj.CopyComplete
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\obj\Debug\net6.0\Bll.dll
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\obj\Debug\net6.0\ref\Bll.dll
+D:\Documentos\Trabajo\Freelancer\Primer Trabajo\Codigo\jellyfish\Bll\obj\Debug\net6.0\Bll.pdb
